@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/README.md
+!/README.en.md
+!/assets/
+/assets/*
+!/assets/banner.svg

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360" role="img" aria-label="Gustavo Amaral — IA aplicada, automação e análise de dados">
+<rect width="1440" height="360" rx="24" fill="#101b2c"/>
+<rect x="64" y="64" width="8" height="232" rx="4" fill="#70d6bb"/>
+<text x="108" y="115" font-family="Segoe UI,Arial,sans-serif" font-size="20" letter-spacing="4" fill="#70d6bb">PROJETOS AUTORAIS</text>
+<text x="104" y="196" font-family="Segoe UI,Arial,sans-serif" font-weight="650" font-size="68" fill="#f5f7fb">Gustavo Amaral</text>
+<text x="108" y="254" font-family="Segoe UI,Arial,sans-serif" font-size="28" fill="#b9c7db">IA aplicada · Automação · Análise de dados</text>
+<path d="M1120 106h170M1120 180h170M1120 254h170M1205 106v148" stroke="#30465e" stroke-width="3" fill="none"/>
+<circle cx="1120" cy="106" r="12" fill="#70d6bb"/><circle cx="1290" cy="180" r="12" fill="#70d6bb"/><circle cx="1120" cy="254" r="12" fill="#70d6bb"/>
+</svg>
