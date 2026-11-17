@@ -1,7 +1,9 @@
 *
 !/.gitignore
-!/README.md
-!/README.en.md
 !/assets/
 /assets/*
+!/README.en.md
+!/README.md
 !/assets/banner.svg
+!/assets/cae-atlas.jpg
+!/assets/graph-demonstracao.jpg

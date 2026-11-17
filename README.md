@@ -1,27 +1,37 @@
-![Gustavo Amaral — IA aplicada, automação e análise de dados](assets/banner.svg)
+![Gustavo Amaral — projetos autorais](assets/banner.svg)
 
 # Gustavo Amaral
 
-Desenvolvo projetos a partir de problemas que encontro no meu dia a dia: preparar vídeos para meus assistentes de IA, trabalhar com dados científicos, organizar minha coleção de cartas e conversar com IA pela Alexa.
+Meus projetos começam com algo que quero conseguir fazer: usar um vídeo com os meus assistentes de IA, trabalhar melhor com uma curva, encontrar uma carta da minha coleção ou enxergar como as partes de um projeto se conectam.
 
-Uso IA como apoio ao desenvolvimento e, quando faz sentido, como parte da própria solução. Meu trabalho passa por definir o problema, organizar requisitos, integrar ferramentas e revisar o resultado com testes e uso prático.
+Uso IA no desenvolvimento e, em alguns casos, dentro da própria aplicação. Meu trabalho passa por definir o que preciso, construir o fluxo, integrar ferramentas e voltar aos resultados para entender o que ainda precisa melhorar.
 
 [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-de-quequi-do-amaral-24a4192ba/) · [English](README.en.md)
 
-## Projetos selecionados
+## Projetos para conhecer
 
-| Projeto | O problema que estou resolvendo |
+| Projeto | Por onde começar |
 | --- | --- |
-| [**Central de Vídeos**](https://github.com/EagleKhan0505/centralvideo) | Preparar vídeos para meus fluxos de IA com processamento local, parâmetros ajustáveis e evidências com horários, sem uma nova assinatura de análise de vídeo. |
-| [**Graph**](https://github.com/EagleKhan0505/graph-scientific-plotter) | Construir uma ferramenta abrangente de análise e plotagem, com IA local integrada para tornar o trabalho mais intuitivo. |
-| [**Organizador Magic**](https://github.com/EagleKhan0505/magic-collection-manager) | Conectar coleção, informações do Scryfall e decks; pesquisar pelo texto das cartas e desenvolver apoio à decisão por IA. |
-| [**Crys e Alexa**](https://github.com/EagleKhan0505/crys-alexa) | Levar uma assistente de IA à interface por voz, integrando uma skill da Alexa à API da OpenAI. |
+| [**Central de Vídeos**](https://github.com/EagleKhan0505/centralvideo) | Como transformo vídeos em evidências consultáveis pelos meus assistentes, ajustando o processamento ao meu computador. |
+| [**Graph**](https://github.com/EagleKhan0505/graph-scientific-plotter) | Um comando em português, uma curva sintética e três operações executadas na interface de análise científica. |
+| [**CAE · Dashboard espacial**](https://github.com/EagleKhan0505/cae-spatial-dashboard) | Um atlas 3D para explorar áreas, iniciativas e conexões, acompanhado de ferramentas para organizar o trabalho. |
+| [**Organizador Magic**](https://github.com/EagleKhan0505/magic-collection-manager) | Da planilha da minha coleção à busca por texto, aos decks e ao apoio à decisão por IA em desenvolvimento. |
+| [**Crys e Alexa**](https://github.com/EagleKhan0505/crys-alexa) | A integração com a API da OpenAI vista por uma pergunta respondida no simulador da Alexa. |
 
-## Como trabalho
+<table>
+<tr><td width="50%"><a href="https://github.com/EagleKhan0505/graph-scientific-plotter"><img src="assets/graph-demonstracao.jpg" alt="Demonstração real do Graph com dados sintéticos"></a></td><td width="50%"><a href="https://github.com/EagleKhan0505/cae-spatial-dashboard"><img src="assets/cae-atlas.jpg" alt="Captura real do atlas 3D do CAE"></a></td></tr>
+<tr><td><strong>Graph</strong> · análise executada no aplicativo</td><td><strong>CAE</strong> · organização espacial em 3D</td></tr>
+</table>
 
-- Parto de uma necessidade concreta e transformo essa necessidade em um fluxo utilizável.
-- Uso desenvolvimento assistido por IA, integração de APIs e ferramentas locais.
-- Reviso os resultados e investigo falhas para orientar as próximas melhorias.
-- Registro o estágio de cada projeto e o que já foi exercitado na prática.
+Cada apresentação traz o contexto do projeto, escolhas de construção e o que já consigo demonstrar. As imagens de aplicativos são capturas reais; esquemas ilustrativos e dados sintéticos estão identificados.
 
-Os repositórios públicos reúnem apresentações dos projetos. As implementações completas e os dados de trabalho são privados.
+<details>
+<summary>Outras explorações em andamento</summary>
+
+**SoundBubble** — investigação em acústica computacional, com simulação e visualização interativa. Pesquisa em desenvolvimento.
+
+**VibEats** — experimentos de produto e interface, com atenção à experiência visual. Protótipo em desenvolvimento.
+
+</details>
+
+As apresentações são públicas. As implementações completas e os dados de trabalho permanecem privados.
