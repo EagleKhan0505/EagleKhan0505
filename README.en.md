@@ -10,13 +10,17 @@ I use AI during development and, in some cases, within the application itself. M
 
 ## Projects to explore
 
+**All projects are in development.** Dates below refer to each project’s records; where the start is unknown, the earliest available record is shown.
+
+<sub>Presentation updated on November 17, 2026.</sub>
+
 | Project | Where to start |
 | --- | --- |
-| [**CentralVideo**](https://github.com/EagleKhan0505/centralvideo) | Turning videos into evidence my assistants can consult, with processing suited to my computer. |
-| [**Graph**](https://github.com/EagleKhan0505/graph-scientific-plotter) | A natural-language request, a synthetic curve and three operations executed in the scientific analysis interface. |
-| [**CAE · Spatial dashboard**](https://github.com/EagleKhan0505/cae-spatial-dashboard) | A 3D atlas for areas, initiatives and connections, alongside tools for organizing work. |
-| [**Magic Collection Manager**](https://github.com/EagleKhan0505/magic-collection-manager) | From my collection spreadsheet to card-text search, deck tracking and AI decision support in development. |
-| [**Crys and Alexa**](https://github.com/EagleKhan0505/crys-alexa) | An OpenAI API integration demonstrated by a question answered in the Alexa simulator. |
+| [**CentralVideo**](https://github.com/EagleKhan0505/centralvideo) | Turning videos into evidence my assistants can consult, with processing suited to my computer.<br><sub>Estimated start: September 2026 · Last recorded update: November 3, 2026</sub> |
+| [**Graph**](https://github.com/EagleKhan0505/graph-scientific-plotter) | A natural-language request, a synthetic curve and three operations executed in the scientific analysis interface.<br><sub>Earliest local record: May 8, 2026 · Last recorded update: September 4, 2026</sub> |
+| [**CAE · Spatial dashboard**](https://github.com/EagleKhan0505/cae-spatial-dashboard) | A 3D atlas for areas, initiatives and connections, alongside tools for organizing work.<br><sub>Platform created: November 9, 2026 · Last recorded update: November 12, 2026</sub> |
+| [**Magic Collection Manager**](https://github.com/EagleKhan0505/magic-collection-manager) | From my collection spreadsheet to card-text search, deck tracking and AI decision support in development.<br><sub>Earliest available record: October 29, 2026 · Last application update: unconfirmed</sub> |
+| [**Crys and Alexa**](https://github.com/EagleKhan0505/crys-alexa) | An OpenAI API integration demonstrated by a question answered in the Alexa simulator.<br><sub>Earliest record: November 3, 2026 · Last recorded update: November 3, 2026</sub> |
 
 <table>
 <tr><td width="50%"><a href="https://github.com/EagleKhan0505/graph-scientific-plotter"><img src="assets/graph-demonstracao.jpg" alt="Actual Graph demo with synthetic data"></a></td><td width="50%"><a href="https://github.com/EagleKhan0505/cae-spatial-dashboard"><img src="assets/cae-atlas.jpg" alt="Actual CAE 3D atlas interior"></a></td></tr>
@@ -28,9 +32,11 @@ Each presentation includes the project's context, implementation decisions and a
 <details>
 <summary>Other explorations in progress</summary>
 
-**SoundBubble** — computational acoustics research with simulation and interactive visualization. Research in development.
+**SoundBubble** — computational acoustics research with simulation and interactive visualization. Research in development.<br>
+<sub>Earliest record: October 26, 2026 · Last recorded update: November 17, 2026</sub>
 
-**VibEats** — product and interface experiments, with a focus on visual experience. Prototype in development.
+**VibEats** — product and interface experiments, with a focus on visual experience. Prototype in development.<br>
+<sub>Started: November 15, 2026 · Last recorded update: November 17, 2026</sub>
 
 </details>
 
